@@ -1,0 +1,16 @@
+node_modules/
+build/
+dist/
+.env
+.env.*
+*.local
+npm-debug.log*
+yarn-error.log*
+pnpm-lock.yaml
+package-lock.json
+.DS_Store
+/.idea/
+/.vscode/
+coverage/
+/.cache
+/.turbo
